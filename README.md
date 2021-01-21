@@ -14,7 +14,13 @@ https://ssrwebsite.vercel.app/
 
 # Running the project
 
-git clone 
+Create apllication with : npx create-next-app
+
+In terminal : git clone https://github.com/Rishikesh46/ssrwebsite.git
+
+Install all dependencies : npm install
+
+To run : npm run dev
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
