@@ -1,3 +1,17 @@
+# Introduction 
+
+- This is a server side render webapplication which renders Surboad as a home page with Raw Engineering and Contenstack as others.
+- Each Webpage has their own header and banner content.
+- The json data is hosted 
+- Surfboard - https://raw.githubusercontent.com/Rishikesh46/surfboard/master/data/blog.json
+- Raw Engineering - https://raw.githubusercontent.com/Rishikesh46/dataraw1/master/data/blog.json
+- Contentstack - https://raw.githubusercontent.com/Rishikesh46/dataraw1/master/data/contenstack.json
+- These links are added as an api end points and data passes as a props
+
+# Demo
+
+https://ssrwebsite.vercel.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
