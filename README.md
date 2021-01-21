@@ -1,7 +1,7 @@
 # Introduction 
 
 - This is a server side render webapplication which renders Surboad as a home page with Raw Engineering and Contenstack as others.
-- Each Webpage has their own header and banner content.
+- Each Webpage has their own header and banner content with companys informations
 - The json data is hosted 
 - Surfboard - https://raw.githubusercontent.com/Rishikesh46/surfboard/master/data/blog.json
 - Raw Engineering - https://raw.githubusercontent.com/Rishikesh46/dataraw1/master/data/blog.json
